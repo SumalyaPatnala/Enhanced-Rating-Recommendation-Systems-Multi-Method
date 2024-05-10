@@ -1,1 +1,1 @@
-# Enhanced-Rating-Recommendation-Systems-Multi-Method
+# Rating-Recommendation-Systems-Multi-Method
